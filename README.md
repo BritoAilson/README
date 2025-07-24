@@ -5,7 +5,8 @@ Sou **desenvolvedor especializado em automação industrial**, com sólida exper
 ## 🚀 Principais Competências
 
 - ⚙️ **Bancos de Dados Industriais**: SQL Server, InfluxDB  
-- 📊 **Visualização de Dados**: Grafana, criação de dashboards dinâmicos e responsivos  
+- 📊 **Visualização de Dados**: Grafana, criação de dashboards dinâmicos e responsivos
+- 📊 **Visualização de Dados**: PowerBI, criação de dashboards dinâmicos e responsivos 
 - 🐳 **Infraestrutura e Deploy**: Docker, containers, automação de ambientes  
 - 👨‍💻 **Linguagens de Programação**: Python (scripts, APIs, automações), JavaScript (interfaces e integrações)
 
