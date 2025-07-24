@@ -9,6 +9,7 @@ Sou desenvolvedor focado em automações industriais, bancos de dados e visualiz
 - 👨‍💻 Python, JavaScript
 
 ## 💼 Projetos em destaque
+- [📊 Ambiente para coleta de dispositvos em REDE de Grande Porte](https://github.com/ailsonbrito/dashboard-producao)
 - [📊 Dashboard de Produção - Grafana + SQL Server](https://github.com/ailsonbrito/dashboard-producao)
 - [⚙️ Automação com Docker e Balança Alfa 3100](https://github.com/ailsonbrito/automacao-balanca)
 
