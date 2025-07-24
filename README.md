@@ -14,5 +14,5 @@ Sou desenvolvedor focado em automações industriais, bancos de dados e visualiz
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- Email: seu@email.com
+- Email: ailson.s.brito@live.com
 
