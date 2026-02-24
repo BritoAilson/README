@@ -18,8 +18,8 @@ Sou **desenvolvedor especializado em automação industrial**, com sólida exper
 - 📈 **Dashboard de Produção com Grafana + SQL Server**  
   Visualização em tempo real de indicadores de produção, com filtros dinâmicos, alertas e integração com banco de dados relacional.
 
-- ⚙️ **Automação de Pesagem com Docker e Balança Alfa 3100**  
-  Solução containerizada para leitura, processamento e registro de dados de pesagem, com interface web e persistência em banco de dados.
+- ⚙️ **Automação Coleta de Dados de equipamentos via FildBus**  
+  Solução containerizada para leitura, processamento e registro de dados, com interface web e persistência em banco de dados.
 
 ## 📫 Como me encontrar
 
